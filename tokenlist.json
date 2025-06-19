@@ -1,0 +1,19 @@
+{
+  "name": "PDFMagikBot Token List",
+  "timestamp": "2025-06-19T11:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0xE456E2AF95A71C0C3E3EA8199a151Fe696afCe60",
+      "name": "PDFMagikBot",
+      "symbol": "PMB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/velichko224/pdfmagik/main/logo.png"
+    }
+  ]
+}
