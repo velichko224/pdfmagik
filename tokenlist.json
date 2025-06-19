@@ -1,11 +1,11 @@
 {
   "name": "PDFMagikBot Token List",
-  "logoURI": "https://raw.githubusercontent.com/velichko224/pdfmagik/main/logo.png",
-  "timestamp": "2025-06-19T11:00:00+00:00",
+  "logoURI": "https://cdn.jsdelivr.net/gh/velichko224/pdfmagik/logo.png",
+  "timestamp": "2025-06-19T12:25:00+00:00",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tokens": [
     {
@@ -14,7 +14,7 @@
       "name": "PDFMagikBot",
       "symbol": "PMB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/velichko224/pdfmagik/main/logo.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/velichko224/pdfmagik/logo.png"
     }
   ]
 }
